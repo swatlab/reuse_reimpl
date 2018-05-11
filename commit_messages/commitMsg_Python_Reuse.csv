@@ -1,0 +1,66 @@
+App,Commit,Message,Decision
+mitmproxy,280b491,https://github.com/mitmproxy/mitmproxy/commit/280b491,unknown
+agithub,8e434b2,https://github.com/jpaugh/agithub/commit/8e434b2,didn't know the lib before^use Python standard lib
+ajenti,c10e155,https://github.com/ajenti/ajenti/commit/c10e155,reduce code size
+aleph,8e229bf,https://github.com/alephdata/aleph/commit/8e229bf,unknown
+aleph,98f9af6,https://github.com/alephdata/aleph/commit/98f9af6,unknown
+anaconda,45744e5,https://github.com/rhinstaller/anaconda/commit/45744e5,didn't know the lib before^use Python standard lib
+aodh,ae64a79,https://github.com/openstack/aodh/commit/ae64a79,performance
+Arelle,72996cf,https://github.com/Arelle/Arelle/commit/72996cf,performance
+Arpeggio,59b4c15,https://github.com/igordejanovic/Arpeggio/commit/59b4c15,use Python standard lib
+asphalt,19b06de,https://github.com/asphalt-framework/asphalt/commit/19b06de,unknown
+autobahn-python,7c5c882,https://github.com/crossbario/autobahn-python/commit/7c5c882,unknown
+awx,768d9d6,https://github.com/ansible/awx/commit/768d9d6,unknown
+barbican,daa0517,https://github.com/openstack/barbican/commit/daa0517,unknown
+beets,57196e6,https://github.com/beetbox/beets/commit/57196e6,performance
+BiblioPixel,d439ec2,https://github.com/ManiacalLabs/BiblioPixel/commit/d439ec2,unknown
+brozzler,12fb9ea,https://github.com/internetarchive/brozzler/commit/12fb9ea,feature
+cctbx_project,510dc91,https://github.com/cctbx/cctbx_project/commit/510dc91,unknown
+celery,48a55d3,https://github.com/celery/celery/commit/48a55d3,unknown
+certbot,37a015f,https://github.com/certbot/certbot/commit/37a015f,unknown
+cinder,7d341e2,https://github.com/openstack/cinder/commit/7d341e2,feature
+ironic,72b871e,https://github.com/openstack/ironic/commit/72b871e,unknown
+commcare-hq,3f70677,https://github.com/dimagi/commcare-hq/commit/3f70677,feature
+cookiecutter,5cb19d9,https://github.com/audreyr/cookiecutter/commit/5cb19d9,use Python standard lib
+crazyflie-clients-python,969d5ab,https://github.com/bitcraze/crazyflie-clients-python/commit/969d5ab,feature
+dask,49920d6,https://github.com/dask/dask/commit/49920d6,don't duplicate code with the lib
+django-mysql,4cec88a,https://github.com/adamchainz/django-mysql/commit/4cec88a,don't duplicate code with the lib
+django-sass-processor,9e9e6ca,https://github.com/jrief/django-sass-processor/commit/9e9e6ca,unknown
+dongerdong,c7105ac,https://github.com/tonyravioli/dongerdong/commit/c7105ac,unknown
+eliot,f60e9a0,https://github.com/ScatterHQ/eliot/commit/f60e9a0,unknown
+EQcorrscan,2aa3ac0,https://github.com/eqcorrscan/EQcorrscan/commit/2aa3ac0,unknown
+evennia,2846e64,https://github.com/evennia/evennia/commit/2846e64,unknown
+f5-ansible,1eaa6cf,https://github.com/F5Networks/f5-ansible/commit/1eaa6cf,unknown
+fofix,7cfcea5,https://github.com/fofix/fofix/commit/7cfcea5,unknown
+freqtrade,e3eaad0,https://github.com/gcarq/freqtrade/commit/e3eaad0,unknown
+HTTPretty,1c4727a,https://github.com/gabrielfalcao/HTTPretty/commit/1c4727a,unknown
+ibis,1b661b5,https://github.com/ibis-project/ibis/commit/1b661b5,unknown
+jrnl,ca7a804,https://github.com/maebert/jrnl/commit/ca7a804,unknown
+libsass-python,4beef0f,https://github.com/sass/libsass-python/commit/4beef0f,unknown
+mackup,1bdcb52,https://github.com/lra/mackup/commit/1bdcb52,feature
+mailinabox,a081d04,https://github.com/mail-in-a-box/mailinabox/commit/a081d04,unknown
+memorious,b8cfa04,https://github.com/alephdata/memorious/commit/b8cfa04,unknown
+moneywagon,574b1e6,https://github.com/priestc/moneywagon/commit/574b1e6,use more standard lib
+mutagen,0f10a43,https://github.com/quodlibet/mutagen/commit/0f10a43,unknown
+netdisco,bfde517,https://github.com/home-assistant/netdisco/commit/bfde517,unknown
+nova,d17e701,https://github.com/openstack/nova/commit/d17e701,not aware of the lib
+nova,05958d4,https://github.com/openstack/nova/commit/05958d4,unknown
+paperwork,7da7ae9,https://github.com/openpaperwork/paperwork/commit/7da7ae9,unknown
+patator,2a1b9c5,https://github.com/lanjelot/patator/commit/2a1b9c5,unknown
+pitivi,1d7ae66,https://github.com/GNOME/pitivi/commit/1d7ae66,reduce code size
+pre-commit,c65a11c,https://github.com/pre-commit/pre-commit/commit/c65a11c,unknown
+pretenders,82820c8,https://github.com/pretenders/pretenders/commit/82820c8,unknown
+pushbullet-cli,a36042d,https://github.com/GustavoKatel/pushbullet-cli/commit/a36042d,unknown
+pycalphad,2b093e5,https://github.com/pycalphad/pycalphad/commit/2b093e5,unknown
+pyformat.info,68c0db9,https://github.com/ulope/pyformat.info/commit/68c0db9,unknown
+pyload,0557925,https://github.com/pyload/pyload/commit/0557925,unknown
+python2-trepan,1a2eb2a,https://github.com/rocky/python2-trepan/commit/1a2eb2a,unknown
+python-hearthstone,d61e534,https://github.com/HearthSim/python-hearthstone/commit/d61e534,unknown
+python-uncompyle6,af3d46b,https://github.com/rocky/python-uncompyle6/commit/af3d46b,unknown
+pyvcloud,923ec3f,https://github.com/vmware/pyvcloud/commit/923ec3f,unknown
+rasterio,6987299,https://github.com/mapbox/rasterio/commit/6987299,unknown
+redash,8a171ba,https://github.com/getredash/redash/commit/8a171ba,unknown
+shade,10a3bb1,https://github.com/openstack-infra/shade/commit/10a3bb1,use Python standard lib
+twisted,e2e0c71,https://github.com/twisted/twisted/commit/e2e0c71,unknown
+voltron,bb523f5,https://github.com/snare/voltron/commit/bb523f5,unknown
+WeasyPrint,f29d23b,https://github.com/Kozea/WeasyPrint/commit/f29d23b,unknown

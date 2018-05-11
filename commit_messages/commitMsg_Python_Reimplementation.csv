@@ -1,0 +1,49 @@
+App,Commit,Message,Decision
+0bin,2a36c3d,https://github.com/sametmax/0bin/commit/2a36c3d,unknown
+aleph,fff01f0,https://github.com/alephdata/aleph/commit/fff01f0,unknown
+anaconda-client,12f0ffc,https://github.com/Anaconda-Platform/anaconda-client/commit/12f0ffc,unknown
+auto-sklearn,16d088b,https://github.com/automl/auto-sklearn/commit/16d088b,unknown
+bbqsql,32c0bed,https://github.com/Neohapsis/bbqsql/commit/32c0bed,remove dependency
+blinkstick-python,cfa776b,https://github.com/arvydas/blinkstick-python/commit/cfa776b,remove dependency
+BombSquad-Community-Mod-Manager,b4eee5c,https://github.com/Mrmaxmeier/BombSquad-Community-Mod-Manager/commit/b4eee5c,unknown
+bup,6da6b77,https://github.com/bup/bup/commit/6da6b77,reliability
+Cactus,96abd35,https://github.com/eudicots/Cactus/commit/96abd35,unknown
+ceph-lcm,1b2083f,https://github.com/Mirantis/ceph-lcm/commit/1b2083f,remove dependency
+certbot,7af9263,https://github.com/certbot/certbot/commit/7af9263,remove dependency
+common-workflow-language,0c7cc02,https://github.com/common-workflow-language/common-workflow-language/commit/0c7cc02,remove dependency (used only once)
+Cryptomatte,aab53e6,https://github.com/Psyop/Cryptomatte/commit/aab53e6,unknown
+cuckoo-modified,7f67da7,https://github.com/spender-sandbox/cuckoo-modified/commit/7f67da7,remove dependency
+dask,c71104d,https://github.com/dask/dask/commit/c71104d,reliability
+datashader,f13b193,https://github.com/bokeh/datashader/commit/f13b193,remove obsolete lib
+flask-api,6c1969b,https://github.com/flask-api/flask-api/commit/6c1969b,flexibility^remove obsolete lib^simplicity
+infrasim-compute,a42a458,https://github.com/InfraSIM/infrasim-compute/commit/a42a458,unknown
+khard,287280,https://github.com/scheibler/khard/commit/0287280,flexibility
+lopocs,091f586,https://github.com/Oslandia/lopocs/commit/091f586,unknown
+mitmproxy,b05bf58,https://github.com/mitmproxy/mitmproxy/commit/b05bf58,unknown
+mongodb-engine,29535c7,https://github.com/django-nonrel/mongodb-engine/commit/29535c7,unknown
+mycli,c584fe9,https://github.com/dbcli/mycli/commit/c584fe9,unknown
+neupy,4b9b150,https://github.com/itdxer/neupy/commit/4b9b150,unknown
+neutron,9d3a07e,https://github.com/openstack/neutron/commit/9d3a07e,reliability
+neutron,85dc410,https://github.com/openstack/neutron/commit/85dc410,remove dependency
+nfldb,a3b9539,https://github.com/BurntSushi/nfldb/commit/a3b9539,remove dependency
+nipype,388305,https://github.com/nipy/nipype/commit/0388305,unknown
+OIPA,ff5cd14,https://github.com/zimmerman-zimmerman/OIPA/commit/ff5cd14,unknown
+openshift-ansible,251dca6,https://github.com/openshift/openshift-ansible/commit/251dca6,remove dependency
+opsdroid,e025fc1,https://github.com/opsdroid/opsdroid/commit/e025fc1,unknown
+pendulum,54dd169,https://github.com/sdispater/pendulum/commit/54dd169,unknown
+pyqtgraph,34802c8,https://github.com/pyqtgraph/pyqtgraph/commit/34802c8,remove dependency
+s3transfer,db41169,https://github.com/boto/s3transfer/commit/db41169,remove dependency
+schema_salad,0c7cc02,https://github.com/common-workflow-language/schema_salad/commit/0c7cc02,remove dependency (used only once)
+SickGear,9b3af8b,https://github.com/SickGear/SickGear/commit/9b3af8b,unknown
+snmpsim,612f34c,https://github.com/etingof/snmpsim/commit/612f34c,unknown
+statsmodels,29f2e56,https://github.com/statsmodels/statsmodels/commit/29f2e56,remove unstandard lib
+vdirsyncer,8d5fed4,https://github.com/pimutils/vdirsyncer/commit/8d5fed4,unknown
+keras-retinanet,f730498,https://github.com/fizyr/keras-retinanet/commit/f730498,remove dependency
+django-rest-framework,a5213d4,https://github.com/encode/django-rest-framework/commit/a5213d4,remove dependency
+azure-cli,2f0cb9d,https://github.com/Azure/azure-cli/commit/2f0cb9d,unknown
+celery,bc327d6,https://github.com/celery/celery/commit/bc327d6,remove dependency
+circuits,bd2df2f,https://github.com/circuits/circuits/commit/bd2df2f,unknown
+pre-commit,bbd2572,https://github.com/pre-commit/pre-commit/commit/bbd2572,unknown
+sumatra,83d2322,https://github.com/open-research/sumatra/commit/83d2322,reliability^performance^simplicity
+netdisco,fd133aa,https://github.com/home-assistant/netdisco/commit/fd133aa,remove dependency
+aleph,cde4f55,https://github.com/alephdata/aleph/commit/cde4f55,unknown
