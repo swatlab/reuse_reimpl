@@ -1,5 +1,4 @@
-# Why Reinventing the Wheels?
-> An Empirical Study on Code Reuse and Re-implementation
+# Why Reinventing the Wheels? --An Empirical Study on Code Reuse and Re-implementation --
 
 ### Research questions
 - RQ1: Why do developers replace their self-implemented method with an ex- ternal library method?
@@ -8,8 +7,8 @@
 
 ### File description
 - **analytic_scripts** folder: contains script to extract code reuse and re-implementation cases for Android apps and Python apps.
-- **real_world_examples** folder: contains the results obtained by running the scripts in **analytic_scripts**.
-- **commit_messages** folder: contains the manual classification results on the motivation of code reuse and re-implementations for the data in **real_world_examples**.
+- **real_world_examples** folder: contains the results obtained by running the scripts in _analytic_scripts__.
+- **commit_messages** folder: contains the manual classification results on the motivation of code reuse and re-implementations for the data in _real_world_examples__.
 
 ### Data source
 - F-Droid: https://f-droid.org/en/
