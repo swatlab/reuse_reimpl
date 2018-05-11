@@ -7,9 +7,9 @@
 - RQ3: How can we improve the current library recommendation techniques?
 
 ### File description
-**analytic_scripts** folder: contains script to extract code reuse and re-implementation cases for Android apps and Python apps.
-**real_world_examples** folder: contains the results obtained by running the scripts in **analytic_scripts**.
-**commit_messages** folder: contains the manual classification results on the motivation of code reuse and re-implementations for the data in **real_world_examples**.
+- **analytic_scripts** folder: contains script to extract code reuse and re-implementation cases for Android apps and Python apps.
+- **real_world_examples** folder: contains the results obtained by running the scripts in **analytic_scripts**.
+- **commit_messages** folder: contains the manual classification results on the motivation of code reuse and re-implementations for the data in **real_world_examples**.
 
 ### Data source
 - F-Droid: https://f-droid.org/en/
