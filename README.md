@@ -1,4 +1,4 @@
-# Why Reinventing the Wheels? <br/>An Empirical Study on Code Reuse and Re-implementation
+# Why Reinventing the Wheels? <br/><small>An Empirical Study on Code Reuse and Re-implementation</small>
 
 ### Research questions
 - RQ1: Why do developers replace their self-implemented method with an ex- ternal library method?
