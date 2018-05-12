@@ -1,8 +1,8 @@
 # Why Reinventing the Wheels? <br/><sub>An Empirical Study on Code Reuse and Re-implementation</sub>
 
 ### Research questions
-- RQ1: Why do developers replace their self-implemented method with an ex- ternal library method?
-- RQ2: Why do developers replace an external library method with their self- implemented code?
+- RQ1: Why do developers replace their self-implemented method with an external library method?
+- RQ2: Why do developers replace an external library method with their self-implemented code?
 - RQ3: How can we improve the current library recommendation techniques?
 
 ### File description
